@@ -6,6 +6,9 @@ a simple application for storing cook recipes
 - SCSS,
 - React.js z ES6
 
-### Opis
+### Opis:
 Pierwsza aplikacja napisana w React.js do przechowywania przepisów kulinarnych.
-Wykorzystuje walidowany formularz kontrolowany, który pozwala na dodanie kolejnych przepisów do listy/książki umożliwiając ich podgląd. Dodane przepisy przechowywane są w localstorage przeglądarki, co pozwala na ich zachowanie jak również usunięcie dowolnego przepisu. 
+Wykorzystuje walidowany formularz kontrolowany, który pozwala na dodanie kolejnych przepisów do listy/książki umożliwiając ich podgląd. Dodane przepisy przechowywane są w localstorage przeglądarki, co pozwala na ich zachowanie jak również usunięcie dowolnego przepisu.
+
+###Demo:
+[CookedNotes](https://cookednotes.firebaseapp.com/)
